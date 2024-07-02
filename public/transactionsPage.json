@@ -1,0 +1,163 @@
+[
+    {
+      "transaction_id": "T001",
+      "customer_id": "C101",
+      "product_id": "2857",
+      "quantity": 2,
+      "total_price": "$2598.00",
+      "transaction_date": "2024-01-15"
+    },
+    {
+      "transaction_id": "T002",
+      "customer_id": "C102",
+      "product_id": "9912",
+      "quantity": 1,
+      "total_price": "$349.00",
+      "transaction_date": "2024-01-18"
+    },
+    {
+      "transaction_id": "T003",
+      "customer_id": "C103",
+      "product_id": "4571",
+      "quantity": 3,
+      "total_price": "$3297.00",
+      "transaction_date": "2024-01-20"
+    },
+    {
+      "transaction_id": "T004",
+      "customer_id": "C104",
+      "product_id": "7621",
+      "quantity": 1,
+      "total_price": "$599.00",
+      "transaction_date": "2024-01-25"
+    },
+    {
+      "transaction_id": "T005",
+      "customer_id": "C105",
+      "product_id": "1548",
+      "quantity": 4,
+      "total_price": "$516.00",
+      "transaction_date": "2024-01-28"
+    },
+    {
+      "transaction_id": "T006",
+      "customer_id": "C106",
+      "product_id": "3324",
+      "quantity": 1,
+      "total_price": "$1199.00",
+      "transaction_date": "2024-02-02"
+    },
+    {
+      "transaction_id": "T007",
+      "customer_id": "C107",
+      "product_id": "4401",
+      "quantity": 2,
+      "total_price": "$1198.00",
+      "transaction_date": "2024-02-05"
+    },
+    {
+      "transaction_id": "T008",
+      "customer_id": "C108",
+      "product_id": "3785",
+      "quantity": 1,
+      "total_price": "$899.00",
+      "transaction_date": "2024-02-08"
+    },
+    {
+      "transaction_id": "T009",
+      "customer_id": "C109",
+      "product_id": "1234",
+      "quantity": 2,
+      "total_price": "$598.00",
+      "transaction_date": "2024-02-12"
+    },
+    {
+      "transaction_id": "T010",
+      "customer_id": "C110",
+      "product_id": "6743",
+      "quantity": 1,
+      "total_price": "$999.00",
+      "transaction_date": "2024-02-15"
+    },
+    {
+      "transaction_id": "T011",
+      "customer_id": "C111",
+      "product_id": "8723",
+      "quantity": 1,
+      "total_price": "$1499.00",
+      "transaction_date": "2024-02-18"
+    },
+    {
+      "transaction_id": "T012",
+      "customer_id": "C112",
+      "product_id": "7651",
+      "quantity": 2,
+      "total_price": "$1298.00",
+      "transaction_date": "2024-02-22"
+    },
+    {
+      "transaction_id": "T013",
+      "customer_id": "C113",
+      "product_id": "2384",
+      "quantity": 1,
+      "total_price": "$1999.00",
+      "transaction_date": "2024-02-25"
+    },
+    {
+      "transaction_id": "T014",
+      "customer_id": "C114",
+      "product_id": "9992",
+      "quantity": 1,
+      "total_price": "$3899.00",
+      "transaction_date": "2024-03-01"
+    },
+    {
+      "transaction_id": "T015",
+      "customer_id": "C115",
+      "product_id": "5871",
+      "quantity": 2,
+      "total_price": "$3992.00",
+      "transaction_date": "2024-03-04"
+    },
+    {
+      "transaction_id": "T016",
+      "customer_id": "C116",
+      "product_id": "6652",
+      "quantity": 3,
+      "total_price": "$2397.00",
+      "transaction_date": "2024-03-08"
+    },
+    {
+      "transaction_id": "T017",
+      "customer_id": "C117",
+      "product_id": "7241",
+      "quantity": 1,
+      "total_price": "$349.00",
+      "transaction_date": "2024-03-12"
+    },
+    {
+      "transaction_id": "T018",
+      "customer_id": "C118",
+      "product_id": "3592",
+      "quantity": 1,
+      "total_price": "$1999.00",
+      "transaction_date": "2024-03-15"
+    },
+    {
+      "transaction_id": "T019",
+      "customer_id": "C119",
+      "product_id": "4810",
+      "quantity": 1,
+      "total_price": "$1449.00",
+      "transaction_date": "2024-03-18"
+    },
+    {
+      "transaction_id": "T020",
+      "customer_id": "C120",
+      "product_id": "6381",
+      "quantity": 2,
+      "total_price": "$238.00",
+      "transaction_date": "2024-03-22"
+    }
+  ]
+  

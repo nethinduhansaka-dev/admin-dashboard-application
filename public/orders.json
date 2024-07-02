@@ -1,0 +1,57 @@
+[
+    {
+      "id": "001",
+      "productId": "1001",
+      "customerName": "John Doe",
+      "orderDate": "2024-06-20",
+      "orderTotal": "$120.00",
+      "shippingAddress": "1234 Elm St, Springfield, IL",
+      "orderStatus": "SHIPPED"
+    },
+    {
+      "id": "002",
+      "productId": "1002",
+      "customerName": "Jane Smith",
+      "orderDate": "2024-06-21",
+      "orderTotal": "$85.50",
+      "shippingAddress": "5678 Oak St, Dayton, OH",
+      "orderStatus": "PLACED"
+    },
+    {
+      "id": "003",
+      "productId": "1003",
+      "customerName": "Michael Johnson",
+      "orderDate": "2024-06-22",
+      "orderTotal": "$150.75",
+      "shippingAddress": "9101 Maple St, Seattle, WA",
+      "orderStatus": "DELIVERED"
+    },
+    {
+      "id": "004",
+      "productId": "1004",
+      "customerName": "Emily Davis",
+      "orderDate": "2024-06-23",
+      "orderTotal": "$45.00",
+      "shippingAddress": "1122 Pine St, Denver, CO",
+      "orderStatus": "OUT_FOR_DELIVERY"
+    },
+    {
+      "id": "005",
+      "productId": "1005",
+      "customerName": "Robert Wilson",
+      "orderDate": "2024-06-24",
+      "orderTotal": "$99.99",
+      "shippingAddress": "1314 Birch St, Boston, MA",
+      "orderStatus": "PLACED"
+    },
+    {
+      "id": "006",
+      "productId": "1006",
+      "customerName": "Linda Martinez",
+      "orderDate": "2024-06-25",
+      "orderTotal": "$200.00",
+      "shippingAddress": "1516 Cedar St, Austin, TX",
+      "orderStatus": "SHIPPED"
+    }
+  ]
+  

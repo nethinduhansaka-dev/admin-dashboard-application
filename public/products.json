@@ -1,0 +1,59 @@
+[
+{
+    "id": "2857",
+    "product_name": "Dell XPS 13",
+    "product_price": "$1299.00",
+    "product_stock": 210
+},
+{
+    "id": "9912",
+    "product_name": "Sony WH-1000XM5",
+    "product_price": "$349.00",
+    "product_stock": 67
+},
+{
+    "id": "4571",
+    "product_name": "HP Spectre x360",
+    "product_price": "$1099.00",
+    "product_stock": 34
+},
+{
+    "id": "7621",
+    "product_name": "Apple iPad Air",
+    "product_price": "$599.00",
+    "product_stock": 85
+},
+{
+    "id": "1548",
+    "product_name": "Logitech MX Master 3S",
+    "product_price": "$129.00",
+    "product_stock": 120
+},
+{
+    "id": "3324",
+    "product_name": "Samsung Galaxy S23 Ultra",
+    "product_price": "$1199.00",
+    "product_stock": 56
+},
+{
+    "id": "4401",
+    "product_name": "Google Pixel 6",
+    "product_thumbnail": "https://example.com/google-pixel-6.jpg",
+    "product_price": "$599.00",
+    "product_stock": 75
+  },
+  {
+    "id": "3785",
+    "product_name": "Microsoft Surface Pro 7",
+    "product_thumbnail": "https://example.com/microsoft-surface-pro-7.jpg",
+    "product_price": "$899.00",
+    "product_stock": 42
+  },
+  {
+    "id": "1234",
+    "product_name": "Bose QuietComfort 35 II",
+    "product_thumbnail": "https://example.com/bose-qc35-ii.jpg",
+    "product_price": "$299.00",
+    "product_stock": 110
+  }
+]

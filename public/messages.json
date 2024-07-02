@@ -1,0 +1,170 @@
+[
+  {
+      "id": 1,
+      "sender": "John Doe",
+      "subject": "Meeting Reminder",
+      "message": "Don't forget about our meeting tomorrow at 10am.",
+      "date": "2024-06-01"
+  },
+  {
+      "id": 2,
+      "sender": "Jane Smith",
+      "subject": "Project Update",
+      "message": "The project is almost complete. Just need to finalize a few details.",
+      "date": "2024-06-02"
+  },
+  {
+      "id": 3,
+      "sender": "Alex Johnson",
+      "subject": "New Proposal",
+      "message": "Please review the new proposal I sent you.",
+      "date": "2024-06-03"
+  },
+  {
+      "id": 4,
+      "sender": "Emily Davis",
+      "subject": "Team Lunch",
+      "message": "Team lunch is scheduled for Friday at noon.",
+      "date": "2024-06-04"
+  },
+  {
+      "id": 5,
+      "sender": "Michael Brown",
+      "subject": "Budget Report",
+      "message": "The budget report for Q2 is ready for your review.",
+      "date": "2024-06-05"
+  },
+  {
+      "id": 6,
+      "sender": "Sarah Wilson",
+      "subject": "Client Meeting",
+      "message": "Client meeting has been moved to Wednesday at 3pm.",
+      "date": "2024-06-06"
+  },
+  {
+      "id": 7,
+      "sender": "David Miller",
+      "subject": "Invoice Submission",
+      "message": "Please submit your invoices by the end of the week.",
+      "date": "2024-06-07"
+  },
+  {
+      "id": 8,
+      "sender": "Sophia Martinez",
+      "subject": "Workshop Invitation",
+      "message": "You are invited to attend the leadership workshop next month.",
+      "date": "2024-06-08"
+  },
+  {
+      "id": 9,
+      "sender": "Daniel Taylor",
+      "subject": "Code Review",
+      "message": "Can you review the latest code changes by tomorrow?",
+      "date": "2024-06-09"
+  },
+  {
+      "id": 10,
+      "sender": "Olivia Anderson",
+      "subject": "Feedback Request",
+      "message": "Please provide feedback on the new design mockups.",
+      "date": "2024-06-10"
+  },
+  {
+      "id": 11,
+      "sender": "Matthew Thomas",
+      "subject": "Training Session",
+      "message": "Reminder: Training session on Monday at 9am.",
+      "date": "2024-06-11"
+  },
+  {
+      "id": 12,
+      "sender": "Ava White",
+      "subject": "Document Review",
+      "message": "The document needs to be reviewed and approved by Friday.",
+      "date": "2024-06-12"
+  },
+  {
+      "id": 13,
+      "sender": "James Harris",
+      "subject": "System Maintenance",
+      "message": "Scheduled system maintenance will occur on Saturday night.",
+      "date": "2024-06-13"
+  },
+  {
+      "id": 14,
+      "sender": "Isabella King",
+      "subject": "Event Registration",
+      "message": "Don't forget to register for the upcoming conference.",
+      "date": "2024-06-14"
+  },
+  {
+      "id": 15,
+      "sender": "Benjamin Lee",
+      "subject": "Contract Renewal",
+      "message": "Your contract is up for renewal next month.",
+      "date": "2024-06-15"
+  },
+  {
+      "id": 16,
+      "sender": "Mia Wright",
+      "subject": "Weekly Report",
+      "message": "Please send your weekly report by end of day Friday.",
+      "date": "2024-06-16"
+  },
+  {
+      "id": 17,
+      "sender": "Alexander Scott",
+      "subject": "HR Update",
+      "message": "HR policies have been updated. Please review them.",
+      "date": "2024-06-17"
+  },
+  {
+      "id": 18,
+      "sender": "Charlotte Young",
+      "subject": "Project Kickoff",
+      "message": "Project kickoff meeting is scheduled for Tuesday at 2pm.",
+      "date": "2024-06-18"
+  },
+  {
+      "id": 19,
+      "sender": "Liam Adams",
+      "subject": "Expense Report",
+      "message": "Expense reports are due by the end of the month.",
+      "date": "2024-06-19"
+  },
+  {
+      "id": 20,
+      "sender": "Ella Walker",
+      "subject": "Marketing Plan",
+      "message": "The new marketing plan draft is ready for review.",
+      "date": "2024-06-20"
+  },
+  {
+      "id": 21,
+      "sender": "Ethan Perez",
+      "subject": "Server Update",
+      "message": "Server updates will take place on Sunday at 1am.",
+      "date": "2024-06-21"
+  },
+  {
+      "id": 22,
+      "sender": "Harper Hall",
+      "subject": "Strategy Meeting",
+      "message": "Strategy meeting scheduled for next Wednesday at 11am.",
+      "date": "2024-06-22"
+  },
+  {
+      "id": 23,
+      "sender": "Lucas Allen",
+      "subject": "Performance Review",
+      "message": "Your performance review is scheduled for next Monday.",
+      "date": "2024-06-23"
+  },
+  {
+      "id": 24,
+      "sender": "Amelia Sanchez",
+      "subject": "New Hire Orientation",
+      "message": "New hire orientation will be held on Friday at 9am.",
+      "date": "2024-06-24"
+  }
+]
