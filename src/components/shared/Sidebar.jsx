@@ -4,7 +4,8 @@ import { Link, useLocation } from 'react-router-dom'
 import classNames from 'classnames';
 import { HiOutlineLogout } from 'react-icons/hi'
 const linkClass =
-	'flex items-center gap-2 font-light px-3 py-2 hover:bg-neutral-400 hover:no-underline active:bg-neutral-400 a rounded-sm text-base'
+	'flex items-center gap-2 font-light px-3 py-2 hover:bg-neutral-400 hover:no-underline active:bg-neutral-400 a rounded-sm text-base';
+import logo from '../../assets/logo.png';
 
 
 export default function Sidebar() {
@@ -14,7 +15,7 @@ export default function Sidebar() {
         <div className='flex'>
         <div  class="text-lg font-bold flex items-center gap-2 px-1 py-3">
                 <img
-                  src="src/assets/logo.png"
+                  src={logo}
                   class="h-6 mr-2"
                   alt=" Logo"
                 />
