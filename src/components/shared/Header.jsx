@@ -3,7 +3,7 @@ import { Menu, Popover, Transition } from '@headlessui/react'
 import { HiOutlineBell, HiOutlineSearch, HiOutlineChatAlt } from 'react-icons/hi'
 import { useNavigate, } from 'react-router-dom'
 import classNames from 'classnames'
-
+import profile from '../../assets/profile.png';
 
 export default function Header() {
 	const navigate = useNavigate()
@@ -89,7 +89,7 @@ export default function Header() {
 								className="h-10 w-10 rounded-full  bg-cover bg-no-repeat bg-center"
 								
 							>
-								<img src="src/assets/profile.png" alt="logo" />
+								<img src={profile} alt="logo" />
 							</div>
 						</Menu.Button>
 					</div>
