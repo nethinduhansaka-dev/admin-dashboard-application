@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import profile from '../assets/profile.png';
 
 export default function ProfilePage() {
     const [editMode, setEditMode] = useState(false);
@@ -65,7 +66,7 @@ export default function ProfilePage() {
                                 />
                             ) : (
                                 <div className="w-16 h-16 rounded-full bg-gray-200 flex items-center justify-center text-gray-500">
-                                    <img src="src/assets/profile.png" alt="No image" />
+                                    <img src={profile} alt="No image" />
                                     
                                 </div>
                             )}
